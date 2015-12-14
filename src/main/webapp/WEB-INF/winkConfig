@@ -1,0 +1,6 @@
+#Resource
+com.ibm.cio.saucelab.SauceReqHandler
+com.ibm.cio.jenkins.JenkinsReqHandler
+
+#Provider
+org.codehaus.jackson.jaxrs.JacksonJsonProvider
